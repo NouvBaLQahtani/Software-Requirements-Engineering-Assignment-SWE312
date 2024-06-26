@@ -25,6 +25,6 @@ The Java code for these operations is provided in the BirthdayBook.java file. Th
 ## Usage
 - Open the SWE312-Spring23-1.pdf file to view the OCL constraints.
 - Open the BirthdayBook.java file to view the Java implementation of the birthday book system.
-- Open the SWE312-Spring23-1.pdf file to view the screenshots of the input and output for each operation.
+- Open the Screen Shot for Q2 output.png to view the screenshots of the input and output for each operation.
 ## Contact
 If you have any questions, feedback, or inquiries regarding this project, please feel free to reach out to me through my Email: NouvAlqahtani@gmail.com .
